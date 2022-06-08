@@ -1,1 +1,371 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T06:30:12.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.1.985 Yowser/2.5 Safari/537.36" version="14.8.1" etag="Igs7r94eQpj3NECXdfdV" type="github"><diagram id="FlghYhW-1vdaRIRnjx7L">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-08T07:22:17.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.1.985 Yowser/2.5 Safari/537.36" etag="q4OgDOR-Cef72UN-g4v6" version="14.8.1" type="github">
+  <diagram id="FlghYhW-1vdaRIRnjx7L" name="Page-1">
+    <mxGraphModel dx="5717" dy="2254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kCiNOOoSChyMKpYMBceR-1" value="&lt;font style=&quot;font-size: 21px&quot;&gt;TRUE L2E&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-2" value="STEPN(M2E)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-3" value="LET ME SPEAK(L2E)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-4" value="Заставила людей выйти на улицы за бабки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-6" value="Заставила людей учить английский" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-7" value="Раньше люди ходили по необходимости, бегали для себя" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-8" value="Раньше учили английский для себя, терь чтобы бабки лутать" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-9" value="Дополнительная мотивация людей для всестороннего развития" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-10" value="Возможные плюсы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-11" value="Подтверждает отзывы: чел реально учился и поставил отзыв" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-12" value="Подтверждает что чел способен быть ментором или он знает как создавать курсы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-13" value="Предоставляем платформу, берем комиссию. Создатели курсов получают свой большой процент в отличие от udemy и тд." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-15" target="kCiNOOoSChyMKpYMBceR-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-15" target="kCiNOOoSChyMKpYMBceR-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-15" target="kCiNOOoSChyMKpYMBceR-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-15" target="kCiNOOoSChyMKpYMBceR-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-15" value="Целая система образования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-16" target="kCiNOOoSChyMKpYMBceR-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-16" value="Система курсов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-18" target="kCiNOOoSChyMKpYMBceR-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-18" value="Разделение курсов на систему уровней" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-19" value="Система просмотра видео" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-20" target="kCiNOOoSChyMKpYMBceR-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-20" value="Заинтересовываем создателей курсов выгодными условиями" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-21" target="kCiNOOoSChyMKpYMBceR-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-21" value="Мотивация людей изучать новые сферы&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-22" value="Мотивация создателям курсов из-за низких комиссий и честных отзывов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="540" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-23" target="kCiNOOoSChyMKpYMBceR-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-23" value="Система тестирования" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-24" target="kCiNOOoSChyMKpYMBceR-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-24" value="Система экзаменов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-25" value="Система хелперов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-30" value="Система прямых трансляций" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-31" target="kCiNOOoSChyMKpYMBceR-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-31" target="kCiNOOoSChyMKpYMBceR-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-31" value="Разделение курсов на большие категории" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="900" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-32" value="Курсы низкого уровня" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-33" target="kCiNOOoSChyMKpYMBceR-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-600" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-33" value="Программирование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-34" value="Еще выше и так длее" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-36" value="Менеджмент и т.д." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-37" target="kCiNOOoSChyMKpYMBceR-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-37" target="kCiNOOoSChyMKpYMBceR-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-37" target="kCiNOOoSChyMKpYMBceR-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-37" value="Fronend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-38" value="Solidity development и т.д." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-44" value="Курс уровня повыше" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-46" value="Бесплатные курсы можно смотреть бесплатно как альтернатива ютубу. Создатель все равно будет что-то получать за создание видосов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="1070" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-50" value="Платные курсы за которые нужно покупать NFT Персонажа" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-51" value="Система NFT персонажей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="1370" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-52" value="0 лвл &quot;Обычный персонаж&quot; имеет доступ только на один курс и только курс низкого уровня&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="1490" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-53" value="По мере повышения лвла будут повышаться уровни курсов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="1560" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-54" value="Курсов должно быть достаточно много (есть возможность коллаб с известными создателями курсов. Даже с универами)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="885" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-55" value="Чем выше уровень тем больше токенов&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="1630" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-56" target="kCiNOOoSChyMKpYMBceR-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-56" value="Анти-бот система" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-59" target="kCiNOOoSChyMKpYMBceR-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-59" target="kCiNOOoSChyMKpYMBceR-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="700" />
+              <mxPoint x="-160" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-59" value="Создатель курса создает тесты и экзамены" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-60" value="Человек изучив какую-то тему проходит тест и стекает свои токены. Пока он не сдаст тест, он больше не будет получать никаких токенов за обучение. После прохождения теста токены ему возвращаются" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="810" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-61" value="Одни плюсы для улучшения коммюнити" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-62" value="При прохождении экзамена человек стекает свои токены. Не прошел экзамен получил обратно 0.6 от своих токенов. Прошел экзамен - получил либо ключ к новому курсу либо улучшение персонажа, либо больше токенов чем ложил" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="810" width="120" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-63" value="Нужно разработать систему похожую на степн с энергией удачей и тд." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="1710" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-65" value="Тест" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-66" value="Экзамен" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-71" value="Frontend - обычный персонаж" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-72" value="Frontend + Solidity персонаж не обычный" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-73" value="Персонаж который может проходить все курсы в разделе программирования - эпический" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-75" value="Легендарный - нельколько направлений (программирование и менеджмент). Одновременно все курсы проходить нелья" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="1710" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-76" value="Небольшая наебка состоит в том что энергия будет одна для всех курсов. Так что постоянно что-то учить не получится." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="1710" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-77" value="Напрашивается система минта с каким-то определенным шансом выпадения редких персонажей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="1465" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-78" value="!!!!!!!!!!!&lt;br&gt;Система лвлов должна быть очень сбалансированной чтобы люди могли и учиться и ботоводов не было" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="1465" width="140" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-79" target="kCiNOOoSChyMKpYMBceR-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-79" target="kCiNOOoSChyMKpYMBceR-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-79" value="После прохождения всех уровней курсов человеку появляется возможность или вероятность создать персонажа хелпера поп курсу или меторство" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="1530" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-80" value="Система игроков хелперов по курсу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="1465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-81" value="Хелпер(такая себе идея на самом деле)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="1694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-84" value="Ментор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1694" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-87" value="Пускай учат друг друга и получают бабки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-88" value="Введем систему видео общения. И будем тоже токены давать" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-89" value="Такую же систему можно ввести для создателя курса и ученика. Пусть тоже токены получают. Но игрок будет тратить больше энергии." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="1830" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-93" value="Система codewars" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-95" value="Люди прошли много курсов, так пускай лутают токены, решая задачи&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-96" value="Система фриланса за токены? чел продтвердит что прошел все курсы и сдал экзамены. Может он и заказик какой-то сделать готов?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="40" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-98" value="????" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-99" value="Всю систему пиздим с codewars" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-100" value="Будем давать токены менторам и создателям курса чтобы создавали задачи" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="547" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-101" value="Система рейтинга. С повышением рейтинга будут сложнее задачи" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-102" value="Система сражений (пускай пиздят бабки друг у друга)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1620" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-104" value="Система рейтинга" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1620" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-105" value="Два игрока ставят равное число токена зависящее от их рейтинга" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1620" y="487" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-106" target="kCiNOOoSChyMKpYMBceR-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-106" value="Человек который проебал - теряет токены. Который выиграл и написал программу быстрее или лучше получает 1.6 монет" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1620" y="562" width="120" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-107" value="За все действия тратится энергия" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1540" y="700" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-108" value="Чтобы токены бесконечно не чеканились. Обязательно нужна какая-то система минта, чтобы токены тратились тоже внутри обязательно" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="1790" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-109" value="Обязательно повышение уровня за бабки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="1890" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-110" value="Идея создавать не какие-то уродские кроссовки. А с красивым дизайнером намутить персонажей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1620" y="810" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-112" target="kCiNOOoSChyMKpYMBceR-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-112" value="Люди могут платить за косметические предметы. Например когда чел побеждает там какой-то красивый эффект. Эти же косметические предметы могут иметь функциональную ценность например" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1620" y="930" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-113" target="kCiNOOoSChyMKpYMBceR-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-113" value="Расходуемый предмет, который может дропнуться во время обучения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1470" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-115" target="kCiNOOoSChyMKpYMBceR-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-115" value="Может позволить забрать за битву не 1.6 монет,а 1.8 и т.д. до бесконечности" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1470" y="1120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-118" value="Их можно будет покупать за токены. Они будут разрушаться" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1470" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-120" value="Можно сделать какую нибудь характеристику у персонажа, как энергия. Чтобы предметы могли реже ломаться." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1610" y="1220" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCiNOOoSChyMKpYMBceR-121" target="kCiNOOoSChyMKpYMBceR-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-121" value="Система починки персонажа тоже должна быть чтобы был оборот токенов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="1970" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-122" value="Также можно добавить дополнительно к обычным персонажам. каких-то очень красивых персонажей. Они будут иметь такие же функции как и обычные. но выглядеть красивее, значит реже выпадать, значит быть дороже" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1610" y="1380" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-123" value="Можно с дизайнером сделать несколько вариантов персонажей. Типа когда он на половину сломался, то персонаж становится побитым и т.д." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="2070" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-125" value="Инвестиции" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-126" value="Приложение или сайт. Или все месте?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-127" value="С чем разобраться еще предстоит" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-128" value="Написание и аудит сматрт контрактов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-129" value="Дизайнеры нужны. А еще разработчики?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-130" value="А идея вообще хорошая? спросить у топов (enjoy maloy, ттс и т.д.). может они и вначале проспонсируют и помогут" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="790" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-131" value="Нужна очень продуманная токеномика чтобы все не сломалость (очень-очень продуманная)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="900" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kCiNOOoSChyMKpYMBceR-132" value="Новая сфера развития web3- образование (задаем тренд)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
