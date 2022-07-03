@@ -1,1 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2022-07-03T06:05:06.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.4.904 Yowser/2.5 Safari/537.36" version="20.0.0" etag="ppBkjMNAtTSndWWT7m5X" type="github"><diagram id="fOei27VcebUtks1jba7U">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-03T06:35:29.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.4.904 Yowser/2.5 Safari/537.36" etag="YwXCqTwbKAB8H5rjHT0x" version="20.0.0" type="github">
+  <diagram id="fOei27VcebUtks1jba7U" name="Page-1">
+    <mxGraphModel dx="981" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-1" value="Аналоги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-2" value="Ванильные -&amp;nbsp;&lt;br&gt;мало онлайна, потому что нет ничего нового" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-3" value="Много тупых плагинов - много людей, но нету смысла" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xwybs32GNBcL4-FMuGdC-4" target="Xwybs32GNBcL4-FMuGdC-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="140" />
+              <mxPoint x="470" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-4" value="Замечание: на bedwars играет много человек" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-5" value="Людям надоело обычное выживание, им нужно что-то необычное" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xwybs32GNBcL4-FMuGdC-7" target="Xwybs32GNBcL4-FMuGdC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xwybs32GNBcL4-FMuGdC-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-7" value="Сервер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xwybs32GNBcL4-FMuGdC-8" target="Xwybs32GNBcL4-FMuGdC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-8" value="Клиент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xwybs32GNBcL4-FMuGdC-10" target="Xwybs32GNBcL4-FMuGdC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-10" value="Сайт" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-13" value="Самый главный плагин - counter strike, как новый режим для выживания" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-15" value="Все управление игроком, замена командам в чате" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-17" value="Плагин позволит:&lt;br&gt;Изменить концепцию пвп в обычном выживании с добавлением оружия.&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-18" value="Создать новый игровой режим с рейтингом, дуэлями и т.д." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="585" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-19" value="Возможность делать ставки на свою победу. Еженедельные состязания, за которые будут давать награды&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="650" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-20" value="Главная концепция - переработка пвп, следовательно можно будет изменять и улучшать свое огнестрельное оружие и броню, а не мечи" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="740" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-21" value="Всем нравится ломать базы других игроков - нужно что-то с этим придумать" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-22" value="Донат: все как на обычных серверах, но чуть лучше.&amp;nbsp;&lt;br&gt;Дизбаланс будет, но на время. Косметические предметы и насмешки можно продавать" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="910" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-23" value="Чат в игре только для общения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-24" value="Панель управления своим персонажем. Как обычные команды, типа посмотреть какой есть донат, но только на сайте" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="540" width="126" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-25" value="Голосовой чат" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-26" value="Начать соревновательный кс и т.д." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xwybs32GNBcL4-FMuGdC-27" value="Встроенный рынок торговли между игроками прям на сайте." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
